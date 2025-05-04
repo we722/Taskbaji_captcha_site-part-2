@@ -1,1 +1,1 @@
-// Placeholder content for IPLog.js
+ip-log.json
